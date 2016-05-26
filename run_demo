@@ -1,0 +1,9 @@
+#! /bin/bash
+echo "Please refer to a PDF file named 'Software_Demonstration.pdf' in this directory for a brief introduction about how to run and test this software."
+
+echo " "
+
+echo "Press 'q' to quit."
+
+./ECGDemo
+

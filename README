@@ -1,0 +1,9 @@
+#Tianyang Li, V00814119
+
+Procedures to run the software:
+
+1. Using “make” command to compile the related files
+2. Typing “./ECGDemo” command to run the software or run run_demo (./run_demo).
+3. Press 'q' to quit.
+
+Note: there is a PDF file “Software_Demonstration.pdf” in this directory, which describes how to test the functions this software has. You could refer to that PDF file to thoroughly test this software.
